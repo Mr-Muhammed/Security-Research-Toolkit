@@ -16,5 +16,5 @@ This project is for educational purposes and security research only.
 
 ## Installation
 ```bash
-git clone https://github.com/yourname/Security-Research-Toolkit.git
-cd src/SecurityToolkit
+git clone https://github.com/Mr-muhammed/Security-Research-Toolkit.git
+cd SecurityToolkit
